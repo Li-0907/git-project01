@@ -13,7 +13,7 @@ public class App {
         System.out.println("hotFix");
         System.out.println("hotFix modify");
         System.out.println("master modify");
-        System.out.println("test");
+        System.out.println("test pull");
     }
 
 }
